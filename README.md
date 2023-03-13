@@ -10,8 +10,10 @@
         <li>I have a <a href="https://github.com/InfernoKarl?tab=repositories">couple repositories </a> where you can find a lot of scripts for niche games I found vulnerabilities in.</li>
         <li>Contact me at ๖̶̶̶ζ͜͡Inferno#6508 (739303108181491723)</li>
       </ul>
-      <h4>Find me on ROBLOX:</h4>
+      <h4>Find me on:</h4>
       <a href="https://www.roblox.com/users/1971804805/profile"><img src="https://static.wikia.nocookie.net/ba67692c-bc3b-40a0-953a-6ca9d6ca51eb/scale-to-width/40"/></a>
+      <a href="https://v3rmillion.net/member.php?action=profile&uid=2446601"><img src="https://static.wikia.nocookie.net/logopedia/images/0/0b/Vermillion_Favicon.png/revision/latest/scale-to-width-down/250?cb=20220609013634/" width="40" height="40"/></a>
+      <a href="https://dsc.bio/infernokarl"><img src="https://cdn-icons-png.flaticon.com/512/2111/2111370.png" width="40" height="40"/></a>
     </td>
   </tr>
   <tr>
