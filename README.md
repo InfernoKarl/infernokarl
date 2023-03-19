@@ -7,7 +7,7 @@
       <ul>
         <li>Hey there, I'm <strong>Karl</strong></li>
         <li>I’m just a regular developer that makes scripts for games</li>
-        <li>I have a <a href="https://github.com/InfernoKarl?tab=repositories">couple repositories </a> where you can find a lot of scripts for niche games I found vulnerabilities in.</li>
+        <li>I have a <a href="https://github.com/InfernoKarl/opensrc">centralized repository </a> where you can find a lot of scripts for niche games I found vulnerabilities in.</li>
         <li>Contact me at ๖̶̶̶ζ͜͡Inferno#6508 (739303108181491723)</li>
       </ul>
       <h4>Find me on:</h4>
