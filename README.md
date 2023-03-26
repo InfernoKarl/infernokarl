@@ -8,7 +8,7 @@
         <li>Hey there, I'm <strong>Karl</strong></li>
         <li>I’m just a regular developer that makes scripts for games</li>
         <li>I have a <a href="https://github.com/InfernoKarl/opensrc">centralized repository </a> where you can find a lot of scripts for niche games I found vulnerabilities in.</li>
-        <li>Contact me at ๖̶̶̶ζ͜͡Inferno#6508 (739303108181491723)</li>
+        <li>Contact me at ๖̶̶̶ζ͜͡Inferno#6508 (739303108181491723) or on my <a href="https://discord.gg/hNX8VxcjMF">Discord Server</li>
       </ul>
       <h4>Find me on:</h4>
       <a href="https://www.roblox.com/users/1971804805/profile"><img src="https://static.wikia.nocookie.net/ba67692c-bc3b-40a0-953a-6ca9d6ca51eb/scale-to-width/40"/></a>
