@@ -8,6 +8,8 @@ elseif placeId == 6986072639 then -- Skyrift
     loadstring(game:HttpGet("https://gist.githubusercontent.com/InfernoKarl/c1e850cdefbd449a506f1d350dfdc7d2/raw/68c54d39b16cc92e55f67c734e9ced456af88f90/skyriftgui", true))()
 elseif placeId == 13076380114 then -- Heroes Battlegrounds
     loadstring(game:HttpGet("https://gist.githubusercontent.com/InfernoKarl/b228a6ae9d3280856e9ce695ca141ec8/raw/3af94ac33211af95cd055664223c249317d0eb00/heroesbattlegroundsgui.lua", true))()
+elseif placeId == 413053960 then -- Heroes Battlegrounds
+    loadstring(game:HttpGet("https://gist.githubusercontent.com/InfernoKarl/30fbc9725969954e43d5eea577dddc5f/raw/c9eb781d2637f16554c21315b987ebaca0c137bf/TLS2RPG-gui.lua", true))()
 else
     print("Invalid PlaceID")
 end
