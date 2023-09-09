@@ -1,5 +1,3 @@
-<img src ="https://gpvc.arturio.dev/InfernoKarl">
-
 <table>
   <tr>
     <td><img src="https://c.tenor.com/qEvN7_Cpkz4AAAAC/nichijou-mio.gif"></td>
