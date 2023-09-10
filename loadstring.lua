@@ -11,7 +11,7 @@ elseif placeId == 13076380114 then -- Heroes Battlegrounds
 elseif placeId == 413053960 then -- The Legendary Sword 2 RPG
     loadstring(game:HttpGet("https://gist.githubusercontent.com/InfernoKarl/30fbc9725969954e43d5eea577dddc5f/raw/c9eb781d2637f16554c21315b987ebaca0c137bf/TLS2RPG-gui.lua", true))()
 elseif placeId == 13515777452 then -- Dragon Soul Hunter
-    loadstring(game:HttpGet("https://gist.githubusercontent.com/InfernoKarl/252cb1c913e3e8a75d7f5e1e996c9a0c/raw/dfd26f6306eed2adfe20a011f3bb33d8bc861631/dragonsoulhunter.lua", true))()
+    loadstring(game:HttpGet("https://gist.githubusercontent.com/InfernoKarl/252cb1c913e3e8a75d7f5e1e996c9a0c/raw/beeb55f77b91aa9c71230bc03bdd5269fa9d13ed/dragonsoulhunter.lua", true))()
 else
     print("Invalid PlaceID")
 end
