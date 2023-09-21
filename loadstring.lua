@@ -12,7 +12,7 @@ elseif placeId == 413053960 then -- The Legendary Sword 2 RPG
     loadstring(game:HttpGet("https://gist.githubusercontent.com/InfernoKarl/30fbc9725969954e43d5eea577dddc5f/raw/c9eb781d2637f16554c21315b987ebaca0c137bf/TLS2RPG-gui.lua", true))()
 elseif placeId == 13515777452 then -- Dragon Soul Hunter
     loadstring(game:HttpGet("https://gist.githubusercontent.com/InfernoKarl/252cb1c913e3e8a75d7f5e1e996c9a0c/raw/962d8ece2a87d6240549cd5ea1164747b97c129b/dragonsoulhunter.lua", true))()
-elseif placeId == 13772394625 then -- Blade Ball
+elseif placeId == 13772394625 or placeId == 14732610803 then -- Blade Ball
     loadstring(game:HttpGet("https://raw.githubusercontent.com/InfernoKarl/opensrc/main/BladeBall/Scripts/initialization.lua", true))()
 else
     print("Invalid PlaceID")
